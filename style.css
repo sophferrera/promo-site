@@ -1,0 +1,73 @@
+body {
+  background-color: #111;
+  background-image: url("whiplash.jpg"), url(tempo.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFF3CF;
+
+}
+
+p {
+  color: #FFF3E1;
+}
+
+.mainContainer{
+  opacity: 75%;
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
+
+.specialParagraphs1 {
+  font-size: 25px;
+}
+
+.specialParagraphs2 {
+  font-style: italic;
+  font-size: 15px;
+  margin-left: 30px;
+}
+
+.logo {
+  padding: 30px;
+  opacity: 60%;
+  text-align: right;
+}
+
+.tempo {
+  padding: 20px;
+  opacity: 40%;
+  text-align: center;
+  /* float: left; */
+}
+
+.closer{
+  text-align: center;
+}
+
+#whiplash{
+  padding-left: 120px;
+  font-family: Impact;
+  font-size: 100px;
+  letter-spacing: 12px;
+  /* font-style: italic; */
+  font-weight: bold;
+  text-decoration: underline;
+  text-shadow: 6px 6px 10px #A66832;
+}
+
+#names {
+  font-family: Impact;
+  font-size: 50px;
+  letter-spacing: 10px;
+  font-weight: bold;
+  text-shadow: 6px 6px 10px #A66832;
+}
+
+#director {
+  font-family: Impact;
+  font-size: 80px;
+  letter-spacing: 10px;
+  font-weight: bold;
+  text-shadow: 6px 6px 10px #A66832;
+}
